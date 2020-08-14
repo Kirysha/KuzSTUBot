@@ -1,0 +1,5 @@
+D:\KuzStu\BD\api_Table_subject\api_template\api_template
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=api_template
+--content-root=D:\KuzStu\BD\api_Table_subject\api_template\api_template
+--file=

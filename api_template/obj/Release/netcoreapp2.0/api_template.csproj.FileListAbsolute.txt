@@ -1,0 +1,12 @@
+D:\KuzStu\BD\api_Table_subject\api_template\api_template\bin\Release\netcoreapp2.0\api_template.deps.json
+D:\KuzStu\BD\api_Table_subject\api_template\api_template\bin\Release\netcoreapp2.0\api_template.runtimeconfig.json
+D:\KuzStu\BD\api_Table_subject\api_template\api_template\bin\Release\netcoreapp2.0\api_template.runtimeconfig.dev.json
+D:\KuzStu\BD\api_Table_subject\api_template\api_template\bin\Release\netcoreapp2.0\api_template.dll
+D:\KuzStu\BD\api_Table_subject\api_template\api_template\bin\Release\netcoreapp2.0\api_template.pdb
+D:\KuzStu\BD\api_Table_subject\api_template\api_template\obj\Release\netcoreapp2.0\api_template.csproj.CoreCompileInputs.cache
+D:\KuzStu\BD\api_Table_subject\api_template\api_template\obj\Release\netcoreapp2.0\api_template.AssemblyInfoInputs.cache
+D:\KuzStu\BD\api_Table_subject\api_template\api_template\obj\Release\netcoreapp2.0\api_template.AssemblyInfo.cs
+D:\KuzStu\BD\api_Table_subject\api_template\api_template\obj\Release\netcoreapp2.0\api_template.dll
+D:\KuzStu\BD\api_Table_subject\api_template\api_template\obj\Release\netcoreapp2.0\api_template.pdb
+D:\KuzStu\BD\api_Table_subject\api_template\api_template\obj\Release\netcoreapp2.0\api_template.csprojAssemblyReference.cache
+D:\KuzStu\BD\api_Table_subject\api_template\api_template\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
